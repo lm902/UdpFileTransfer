@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpFileTransfer.Client", "UdpFileTransfer.Client\UdpFileTransfer.Client.csproj", "{73B7B77A-DEF0-40FC-BCBC-E5E743930BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpFileTransfer.Server", "UdpFileTransfer.Server\UdpFileTransfer.Server.csproj", "{06313999-B6EB-431C-8705-DE8C251446E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpFileTransfer.Common", "UdpFileTransfer.Common\UdpFileTransfer.Common.csproj", "{4E0250DB-B30F-4881-BD35-4BCA0503FBA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpFileTransfer.Proxy", "UdpFileTransfer.Proxy\UdpFileTransfer.Proxy.csproj", "{E4C46B2C-589A-41CF-B655-FB7714201273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpFileTransfer.Grapher", "UdpFileTransfer.Grapher\UdpFileTransfer.Grapher.csproj", "{BA2C9CEB-A6A6-4F67-BC7D-15F1EFAEED98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B7B77A-DEF0-40FC-BCBC-E5E743930BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B7B77A-DEF0-40FC-BCBC-E5E743930BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B7B77A-DEF0-40FC-BCBC-E5E743930BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B7B77A-DEF0-40FC-BCBC-E5E743930BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06313999-B6EB-431C-8705-DE8C251446E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06313999-B6EB-431C-8705-DE8C251446E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06313999-B6EB-431C-8705-DE8C251446E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06313999-B6EB-431C-8705-DE8C251446E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0250DB-B30F-4881-BD35-4BCA0503FBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0250DB-B30F-4881-BD35-4BCA0503FBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0250DB-B30F-4881-BD35-4BCA0503FBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0250DB-B30F-4881-BD35-4BCA0503FBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C46B2C-589A-41CF-B655-FB7714201273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C46B2C-589A-41CF-B655-FB7714201273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C46B2C-589A-41CF-B655-FB7714201273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C46B2C-589A-41CF-B655-FB7714201273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2C9CEB-A6A6-4F67-BC7D-15F1EFAEED98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2C9CEB-A6A6-4F67-BC7D-15F1EFAEED98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2C9CEB-A6A6-4F67-BC7D-15F1EFAEED98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2C9CEB-A6A6-4F67-BC7D-15F1EFAEED98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF24F38-5388-4BED-B2D3-2A956BA2FC2C}
+	EndGlobalSection
+EndGlobal

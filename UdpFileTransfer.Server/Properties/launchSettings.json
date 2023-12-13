@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UdpFileTransfer.Server": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 12346"
+    }
+  }
+}

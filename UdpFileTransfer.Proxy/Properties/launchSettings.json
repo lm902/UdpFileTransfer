@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UdpFileTransfer.Proxy": {
+      "commandName": "Project",
+      "commandLineArgs": "--listen-port 12345 --connect-port 12346 --client-delay 0.2 --server-delay 0.2 --client-drop 0.2 --server-drop 0.2"
+    }
+  }
+}
